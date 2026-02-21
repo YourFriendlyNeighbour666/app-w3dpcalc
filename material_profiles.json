@@ -1,0 +1,14 @@
+{
+    "PETG V0": {
+        "name": "PETG V0",
+        "density": 1.27,
+        "price_per_1000g": 300.0,
+        "filament_diameter_mm": 1.75
+    },
+    "AntoNament": {
+        "name": "AntoNament",
+        "density": 1.24,
+        "price_per_1000g": 300.0,
+        "filament_diameter_mm": 1.75
+    }
+}

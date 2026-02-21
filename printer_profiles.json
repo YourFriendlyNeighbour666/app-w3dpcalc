@@ -1,0 +1,14 @@
+{
+    "MK4": {
+        "name": "MK4",
+        "price": 10000.0,
+        "depreciation_time": 4380.0,
+        "power_consumption": 150.0
+    },
+    "Antonowka": {
+        "name": "Antonowka",
+        "price": 10000.0,
+        "depreciation_time": 4360.0,
+        "power_consumption": 100.0
+    }
+}

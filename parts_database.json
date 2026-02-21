@@ -1,0 +1,22 @@
+{
+    "Ammo Box 9x50": {
+        "material_cost_per_instance": 126.0,
+        "total_material_cost": 6300.0,
+        "electricity_cost": 77.4,
+        "depreciation_cost": 1369.86,
+        "labor_cost": 2500.0,
+        "total_cost": 10247.26,
+        "weight_g_per_instance": 420.0,
+        "total_weight_g": 21000.0
+    },
+    "box": {
+        "material_cost_per_instance": 23.7,
+        "total_material_cost": 23.7,
+        "electricity_cost": 0.95,
+        "depreciation_cost": 25.23,
+        "weight_g_per_instance": 79.0,
+        "total_weight_g": 79.0,
+        "labor_cost": 50.0,
+        "total_cost": 99.88
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Ammo Box 9x50": {
+        "name": "Ammo Box 9x50",
+        "volume_mm3": 330708.6614173228,
+        "print_time": 12.0,
+        "setup_time": 0.0,
+        "post_processing_time": 1.0,
+        "instances": 50
+    },
+    "box": {
+        "name": "box",
+        "volume_mm3": 63709.67741935484,
+        "print_time": 11.0,
+        "setup_time": 0.5,
+        "post_processing_time": 0.5,
+        "instances": 1
+    },
+    "QRHeildenberg": {
+        "name": "QRHeildenberg",
+        "volume_mm3": 37007.87401574803,
+        "print_time": 2.0,
+        "setup_time": 0.1,
+        "post_processing_time": 0.2,
+        "instances": 1
+    }
+}

@@ -1,0 +1,15 @@
+2023-11-12 16:07:29,016 - INFO - Script executed successfully.
+2023-11-19 00:33:21,666 - INFO - Script executed successfully.
+2023-11-24 14:04:30,491 - INFO - Script executed successfully.
+2023-12-04 13:46:37,426 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "/Volumes/SanDisk/GitHub/GitMine/RustyBomber/Rusty3DP Calc/Rusty3Dprint.py", line 225, in main
+    part_profile = select_or_create_profile(load_profiles('parts'), 'parts', material_profile)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SanDisk/GitHub/GitMine/RustyBomber/Rusty3DP Calc/Rusty3Dprint.py", line 168, in select_or_create_profile
+    return create_profile(profile_type, material_profile)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SanDisk/GitHub/GitMine/RustyBomber/Rusty3DP Calc/Rusty3Dprint.py", line 143, in create_profile
+    profile_name, profile_data = create_part_profile(material_profile)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
